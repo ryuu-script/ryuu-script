@@ -5,6 +5,11 @@ my programming skills.
 <br><br>
 
 I mainly code in **C**. However, I have some experience with languages such as the 
-following: **C++**, **Java**, **JavaScript**, **PHP**, and **Flutter**.
+following: 
+- **C++**
+- **Java**
+- **JavaScript**
+- **PHP**
+- **Flutter**.
 
 ## Table of Contents
