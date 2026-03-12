@@ -3,8 +3,8 @@
 # <img height="25" width="25" src="https://cdn.simpleicons.org/linux/000000/ffffff"/> It's Ryuu, at your service!
 I aspire to become a Professional Software Developer, preferrably the kind that does back-end development. I'm not very creative, 
 I just want things to work as intended, even if it ends up looking like **Windows 95** 🥀🥀🥀
-<br>
 
+## <img height="20" width="20" src="https://cdn.simpleicons.org/linux/000000/ffffff"/> Programming Languages
 I am currently studying ***Computer Science*** at the University of San Carlos, steadily improving my programming skills
 <br>
 
