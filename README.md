@@ -1,4 +1,4 @@
-<img src="ryuuScript.png"/>
+<img src="banner.png"/>
 
 # <img height="25" width="25" src="https://cdn.simpleicons.org/linux/000000/ffffff"/> It's Ryuu, at your service!
 I aspire to become a Professional Software Developer, preferrably the kind that does back-end development. I'm not very creative, 
