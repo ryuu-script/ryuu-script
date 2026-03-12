@@ -6,10 +6,10 @@ my programming skills.
 <br>
 I mainly code in **C**. However, I have some experience with languages such as the 
 following: 
-- **C++**
-- **Java**
-- **JavaScript**
-- **PHP**
-- **Flutter**.
+-**C++**
+-**Java**
+-**JavaScript**
+-**PHP**
+-**Flutter**.
 
 ## Table of Contents
