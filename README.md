@@ -1,6 +1,6 @@
-# <img width="20" height="20" alt="image" src="[https://github.com/user-attachments/assets/f8ab83e2-fca3-4111-82b4-0b3df3f96e32](https://www.pngegg.com/en/png-byoxw)" /> It's Ryuu, at your service!
-An aspiring Software Developer, preferrably a back-end one. <br>
-I am currently studying Computer Science at my University, and am steadily improving
+# It's Ryuu, at your service!
+I am an aspiring Software Developer, preferrably a back-end one. <br>
+I am currently studying 'Computer Science at my University', and am steadily improving
 my programming skills.
 <br>
 
