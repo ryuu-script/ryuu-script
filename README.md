@@ -3,10 +3,10 @@ I aspire to become a Professional Software Developer, preferrably the kind that 
 I just want things to work as intended, even if it ends up looking like **Windows 95** 🥀🥀🥀
 <br>
 
-I am currently studying ***Computer Science*** at the University of San Carlos, steadily improving my programming skills.
+I am currently studying ***Computer Science*** at the University of San Carlos, steadily improving my programming skills
 <br>
 
- I mainly code in **`C`**. However, I have some experience with other languages as well 
+ I mainly code in **`C`**. However, I have some experience with other languages such as `C++, Java, JavaScript, PHP,` and `Flutter` as well
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,flutter&theme=dark" alt="C, C++, Java, JavaScript, PHP, Flutter" />
 </p>
@@ -18,3 +18,4 @@ I am currently studying ***Computer Science*** at the University of San Carlos, 
 ![Gaming](https://img.shields.io/badge/Gaming-2d579c?style=for-the-badge&logo=steam&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
 ![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
