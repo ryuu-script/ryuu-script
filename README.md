@@ -21,3 +21,7 @@ I am currently studying ***Computer Science*** at the University of San Carlos, 
 ![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
 ![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
+## <img height="20" width="20" src="https://cdn.simpleicons.org/linux/000000/ffffff"/> Why I Ended Up Becoming A Com-Sci Student
+What initially got me interested was the idea that I could gain the knowledge and skills needed to build software that improves my workflow 
+and solves problems I run into. On top of that, the thought of eventually designing and creating solutions that could fix common issues, 
+streamline processes, and make things easier for other people makes the field even more exciting to me.
