@@ -2,11 +2,11 @@
 An aspiring Software Developer, preferrably a back-end one.
 I am currently studying Computer Science at my University, and am steadily improving
 my programming skills.
-<br><br>
+<br>
 
 I mainly code in **C**. However, I have some experience with languages such as the 
 following: 
-- **C++**
+- `#0969DA`**C++**
 - **Java**
 - **JavaScript**
 - **PHP**
