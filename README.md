@@ -1,4 +1,4 @@
-<img src="banner.png"/>
+<img src="javascript.jpg"/>
 
 # <img height="25" width="25" src="https://cdn.simpleicons.org/linux/000000/ffffff"/> It's Ryuu, at your service!
 I aspire to become a Professional Software Developer, preferrably the kind that does back-end development. I'm not very creative, 
@@ -22,6 +22,4 @@ I am currently studying ***Computer Science*** at the University of San Carlos, 
 ![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
 ## <img height="20" width="20" src="https://cdn.simpleicons.org/linux/000000/ffffff"/> Why I Ended Up Becoming A Com-Sci Student
-What initially got me interested was the idea that I could gain the knowledge and skills needed to build software that improves my workflow 
-and solves problems I run into. On top of that, the thought of eventually designing and creating solutions that could fix common issues, 
-streamline processes, and make things easier for other people makes the field even more exciting to me.
+It pays well, or so I've heard 🙃
