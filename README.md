@@ -8,7 +8,6 @@
 Me write code, me get it wrong, me fix code, still no work, me wonder..... Me see that I forgot to put a goddamn semi-colon in line 34 😤
 <br>
 
-
 ## [ Education ]
 <br>
 
