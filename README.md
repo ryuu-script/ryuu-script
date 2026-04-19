@@ -1,23 +1,17 @@
 <img src="banner.png">
 
 # It's Ryuu, at your service 🙃
-<br>
 
-**Aspiring Back-End Software Developer** | Computer Science Student at University of San Carlos
-
+**Aspiring Back-End Software Developer** | Computer Science Student at University of San Carlos <br>
 Me write code, me get it wrong, me fix code, still no work, me wonder..... Me see that I forgot to put a goddamn semi-colon in line 34 😤
 <br>
 
-## [ Education ]
-<br>
-
+## [ Education ] 
 - **(2023 - 2025)** [iAcademy Cebu] Bachelor of Science in Computer Science -- Major in Software Engineering
 - **(2026 - ongoing)** [University of San Carlos] Bachelor of Science in Computer Science
-<br>
+
 
 ## [ Technical Skills ]
-<br>
-
 ### Primary Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,flutter&theme=dark" alt="C, C++, Java, JavaScript, PHP, Flutter" />
@@ -25,16 +19,15 @@ Me write code, me get it wrong, me fix code, still no work, me wonder..... Me se
 
 - **Main:** C
 - **Experienced:** C++, Java, JavaScript, PHP, Flutter
-<br>
+
 
 ## [ Current Focus ]
-<br><br>
 
 - Deepening my understanding of back-end technologies and system design
 - Continuously improving my programming fundamentals
 - Building projects that prioritize functionality and reliability
 - Studying Computer Science at USC
-<br>
+
 
 ## [ Beyond Code ]
 <br>
