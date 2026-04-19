@@ -1,25 +1,52 @@
-<img src="javascript.jpg"/>
+<img src="banner.png">
 
-# <img height="25" width="25" src="https://cdn.simpleicons.org/linux/000000/ffffff"/> It's Ryuu, at your service!
-I aspire to become a Professional Software Developer, preferrably the kind that does back-end development. I'm not very creative, 
-I just want things to work as intended, even if it ends up looking like **Windows 95** 🥀🥀🥀
-
-## <img height="20" width="20" src="https://cdn.simpleicons.org/linux/000000/ffffff"/> Programming Languages
-I am currently studying ***Computer Science*** at the University of San Carlos, steadily improving my programming skills
+# It's Ryuu, at your service 🙃
 <br>
 
- I mainly code in **`C`**. However, I have some experience with other languages such as `C++, Java, JavaScript, PHP,` and `Flutter` as well
+**Aspiring Back-End Software Developer** | Computer Science Student at University of San Carlos
+
+Me write code, me get it wrong, me fix code, still no work, me wonder....... Me see that I forgot to put a goddamn semi-colon in line 34 😤
+<br><br>
+
+## [ Education ]
+<br>
+
+- **(2023 - 2025)** [iAcademy Cebu] Bachelor of Science in Computer Science -- Major in Software Engineering
+- **(2026 - ongoing)** [University of San Carlos] Bachelor of Science in Computer Science
+<br>
+
+## [ Technical Skills ]
+<br>
+
+### Primary Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,flutter&theme=dark" alt="C, C++, Java, JavaScript, PHP, Flutter" />
 </p>
 
-## <img height="20" width="20" src="https://cdn.simpleicons.org/linux/000000/ffffff"/>  Hobbies / Interests
-![PC Building](https://img.shields.io/badge/PC%20Building-cc9edb?style=for-the-badge&logo=pcgamingwiki&logoColor=black)
-![Linux Ricing](https://img.shields.io/badge/Linux%20Ricing-c9c8c5?style=for-the-badge&logo=arch-linux&logoColor=black)
-![Coding](https://img.shields.io/badge/Coding-2d7ca1?style=for-the-badge&logo=github&logoColor=white)
-![Gaming](https://img.shields.io/badge/Gaming-2d579c?style=for-the-badge&logo=steam&logoColor=white)
-![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
-![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+- **Main:** C
+- **Experienced:** C++, Java, JavaScript, PHP, Flutter
+<br>
 
-## <img height="20" width="20" src="https://cdn.simpleicons.org/linux/000000/ffffff"/> Why I Ended Up Becoming A Com-Sci Student
-It pays well, or so I've heard 🙃
+## [ Current Focus ]
+<br><br>
+
+- Deepening my understanding of back-end technologies and system design
+- Continuously improving my programming fundamentals
+- Building projects that prioritize functionality and reliability
+- Studying Computer Science at USC
+<br>
+
+## [ Beyond Code ]
+<br>
+<p align="center">
+ When I'm not coding, you can find me: <br><br>
+  <img src="https://img.shields.io/badge/PC%20Building-cc9edb?style=for-the-badge&logo=pcgamingwiki&logoColor=black" alt="PC Building"/>
+  <img src="https://img.shields.io/badge/Linux%20Ricing-c9c8c5?style=for-the-badge&logo=arch-linux&logoColor=black" alt="Linux Ricing"/>
+  <img src="https://img.shields.io/badge/Gaming-2d579c?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming"/>
+  <img src="https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Coffee"/>
+  <img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Music"/>
+</p>
+<br>
+<p align="center">
+  <i>"The lion does not concern himself with the most barebones-looking webpage as long as it works correctly."</i>
+</p>
