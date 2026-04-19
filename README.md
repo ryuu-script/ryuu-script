@@ -2,7 +2,6 @@
 
 # It's Ryuu, at your service 🙃
 <br>
-<br>
 
 **Aspiring Back-End Software Developer** | Computer Science Student at University of San Carlos
 
