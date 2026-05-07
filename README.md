@@ -1,4 +1,4 @@
-<img src="banner.png">
+<img src="eepy-elf.jpg">
 
 # It's Ryuu, at your service 🙃
 
