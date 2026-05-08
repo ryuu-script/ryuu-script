@@ -8,7 +8,7 @@ Me write code, me get it wrong, me fix code, still no work, me wonder..... Me se
 
 ## [ Education ] 
 - **(2023 - 2025)** [iAcademy Cebu] Bachelor of Science in Computer Science -- Major in Software Engineering
-- **(2026 - ongoing)** [University of San Carlos] Bachelor of Science in Computer Science
+- **(2025 - ongoing)** [University of San Carlos] Bachelor of Science in Computer Science
 
 
 ## [ Technical Skills ]
