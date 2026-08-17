@@ -2,7 +2,7 @@
 
 # It's Ryuu, at your service 🙃
 
-**Aspiring Software Developer** | Computer Science Student at University of San Carlos <br>
+**Aspiring Software Developer** | Computer Science Student at the University of San Carlos <br>
 I am a second-year CS student with a passion for earning money so I can have a roof over my head and afford groceries to prevent starving
 <br>
 
