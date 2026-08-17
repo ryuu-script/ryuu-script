@@ -2,31 +2,34 @@
 
 # It's Ryuu, at your service 🙃
 
-**Aspiring Back-End Software Developer** | Computer Science Student at University of San Carlos <br>
-Me write code, me get it wrong, me fix code, still no work, me wonder..... Me see that I forgot to put a goddamn semi-colon in line 34 😤
+**Aspiring Software Developer** | Computer Science Student at University of San Carlos <br>
+I am a second-year CS student with a passion for earning money so I can have a roof over my head and afford groceries to prevent starving
 <br>
 
 ## [ Education ] 
-- **(2023 - 2025)** [iAcademy Cebu] Bachelor of Science in Computer Science -- Major in Software Engineering
-- **(2025 - ongoing)** [University of San Carlos] Bachelor of Science in Computer Science
+- **(2025 - ongoing)** 
+  <br>[University of San Carlos] Bachelor of Science in Computer Science
+
+- **(2023 - 2025)** 
+  <br>[iAcademy Cebu] Bachelor of Science in Computer Science -- Major in Software Engineering
 
 
 ## [ Technical Skills ]
 ### Primary Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,flutter&theme=dark" alt="C, C++, Java, JavaScript, PHP, Flutter" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,&theme=dark" alt="C, C++, Java, JavaScript, PHP" />
 </p>
 
-- **Main:** C
-- **Experienced:** C++, Java, JavaScript, PHP, Flutter
+**Main:** C
+<br>
+**Experienced:** C++, Java, JavaScript, PHP
 
 
 ## [ Current Focus ]
 
-- Deepening my understanding of back-end technologies and system design
-- Continuously improving my programming fundamentals
-- Building projects that prioritize functionality and reliability
-- Studying Computer Science at USC
+- Passing my courses so I can graduate ASAP 🥱
+- Learning several programming-related fields to figure out what I want to specialize in
+- Connecting with like-minded people in my University (proceeds to only hang out with the same 3 people)
 
 
 ## [ Beyond Code ]
