@@ -3,8 +3,7 @@
 # It's Ryuu, at your service 🙃
 
 **Aspiring Software Developer** | Computer Science Student at the University of San Carlos <br>
-I am a second-year CS student with a passion for earning money so I can have a roof over my head and afford groceries to prevent starving
-<br>
+I am a second-year CS student nga bun-og na kaayo tungod sa walay kahumanan nga project. WA GYUD SILA GABA-I.
 
 ## [ Education ] 
 - **(2025 - ongoing)** 
@@ -27,9 +26,9 @@ I am a second-year CS student with a passion for earning money so I can have a r
 
 ## [ Current Focus ]
 
-- Passing my courses so I can graduate ASAP 🥱
-- Learning several programming-related fields to figure out what I want to specialize in
-- Connecting with like-minded people in my University (proceeds to only hang out with the same 3 people)
+- Passing my courses para mangwarta nata uy
+- Pagtigom sa baon.
+- Pagwapo para dili halatang kabagsakon ang grado
 
 
 ## [ Beyond Code ]
